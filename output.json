@@ -1,0 +1,14 @@
+[
+  {
+    "Account Name": "\nCash",
+    "Account Code": "101",
+    "Type": "Assets",
+    "Description": "Checking account balance"
+  },
+  {
+    "Account Name": "\nWages Payable",
+    "Account Code": "220",
+    "Type": "Liabilities",
+    "Description": "Amount owed to employes for hours not yet paid"
+  }
+]
